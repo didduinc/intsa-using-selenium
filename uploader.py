@@ -51,9 +51,9 @@ while 1:
 def callrepeat(aa):
     aaa = aa
     if aa == 1:
-        photopath = 'D:\memes\meme'+str(aaa)+'.jpg'
+        photopath = 'D:\memes\meme'+str(aaa)+'.jpg' # Add folder path here
     else:
-        photopath = 'meme'+str(aaa)+'.jpg'
+        photopath = 'meme'+str(aaa)+'.jpg' #change meme to something if your image names doesn't start with word meme
     tags = ["#meme","#collegememes", "#memeworld", "#stolenmemes", "#memeinoneplace", "#diddumemes", "#diddu", "#maymay",
             "#memebaba", "#behappy", "memelaughter", "#indianmemes", "#memesdaily", "#memestagram", "#memesfordays",
             "#memesindia", "#memesme", "#memesespa", "#memestar", "#memes4ever", "#memesbelike",
