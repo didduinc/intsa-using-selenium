@@ -1,4 +1,7 @@
-# intsa-using-selenium
-This code can help you to upload post to instagram without using any api with the help of selenium.
+# insta-using-selenium
 
-This script can help you to bulk upload to instagram safely using selenium and chrome driver. 
+This repository can help you to upload bulk images or videos on instagram without using any official API of Instagram.
+
+You can use it to create some kind of BOT that are required to upload same image or different images on any Instagram account at fixed intervals.
+
+
